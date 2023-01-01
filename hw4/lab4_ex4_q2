@@ -1,0 +1,900 @@
+The X dimension of the grid is 128 
+The number of time steps to perform is 100 
+Timing - Allocating device memory. 		Elasped 90467 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 68 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 286 microseconds 
+Timing - SpMV. 		Elasped 597 microseconds 
+The relative error of the approximation is 3.318021
+The X dimension of the grid is 128 
+The number of time steps to perform is 200 
+Timing - Allocating device memory. 		Elasped 83696 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 76 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 299 microseconds 
+Timing - SpMV. 		Elasped 1162 microseconds 
+The relative error of the approximation is 2.723174
+The X dimension of the grid is 128 
+The number of time steps to perform is 300 
+Timing - Allocating device memory. 		Elasped 86379 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 80 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 280 microseconds 
+Timing - SpMV. 		Elasped 1640 microseconds 
+The relative error of the approximation is 2.396107
+The X dimension of the grid is 128 
+The number of time steps to perform is 400 
+Timing - Allocating device memory. 		Elasped 85455 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 60 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 224 microseconds 
+Timing - SpMV. 		Elasped 2436 microseconds 
+The relative error of the approximation is 2.172265
+The X dimension of the grid is 128 
+The number of time steps to perform is 500 
+Timing - Allocating device memory. 		Elasped 220957 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 74 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 287 microseconds 
+Timing - SpMV. 		Elasped 2853 microseconds 
+The relative error of the approximation is 2.002595
+The X dimension of the grid is 128 
+The number of time steps to perform is 600 
+Timing - Allocating device memory. 		Elasped 160936 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 80 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 337 microseconds 
+Timing - SpMV. 		Elasped 3402 microseconds 
+The relative error of the approximation is 1.866023
+The X dimension of the grid is 128 
+The number of time steps to perform is 700 
+Timing - Allocating device memory. 		Elasped 84512 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 57 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 289 microseconds 
+Timing - SpMV. 		Elasped 3911 microseconds 
+The relative error of the approximation is 1.751605
+The X dimension of the grid is 128 
+The number of time steps to perform is 800 
+Timing - Allocating device memory. 		Elasped 87191 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 106 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 338 microseconds 
+Timing - SpMV. 		Elasped 5101 microseconds 
+The relative error of the approximation is 1.652951
+The X dimension of the grid is 128 
+The number of time steps to perform is 900 
+Timing - Allocating device memory. 		Elasped 84785 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 63 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 218 microseconds 
+Timing - SpMV. 		Elasped 5244 microseconds 
+The relative error of the approximation is 1.566021
+The X dimension of the grid is 128 
+The number of time steps to perform is 1000 
+Timing - Allocating device memory. 		Elasped 81650 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 36 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 334 microseconds 
+Timing - SpMV. 		Elasped 5605 microseconds 
+The relative error of the approximation is 1.488118
+The X dimension of the grid is 128 
+The number of time steps to perform is 1100 
+Timing - Allocating device memory. 		Elasped 84066 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 61 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 291 microseconds 
+Timing - SpMV. 		Elasped 6369 microseconds 
+The relative error of the approximation is 1.417372
+The X dimension of the grid is 128 
+The number of time steps to perform is 1200 
+Timing - Allocating device memory. 		Elasped 83469 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 65 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 325 microseconds 
+Timing - SpMV. 		Elasped 7379 microseconds 
+The relative error of the approximation is 1.352447
+The X dimension of the grid is 128 
+The number of time steps to perform is 1300 
+Timing - Allocating device memory. 		Elasped 89017 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 37 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 303 microseconds 
+Timing - SpMV. 		Elasped 7754 microseconds 
+The relative error of the approximation is 1.292369
+The X dimension of the grid is 128 
+The number of time steps to perform is 1400 
+Timing - Allocating device memory. 		Elasped 92219 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 34 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 350 microseconds 
+Timing - SpMV. 		Elasped 8721 microseconds 
+The relative error of the approximation is 1.236412
+The X dimension of the grid is 128 
+The number of time steps to perform is 1500 
+Timing - Allocating device memory. 		Elasped 83963 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 37 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 214 microseconds 
+Timing - SpMV. 		Elasped 9324 microseconds 
+The relative error of the approximation is 1.184024
+The X dimension of the grid is 128 
+The number of time steps to perform is 1600 
+Timing - Allocating device memory. 		Elasped 86267 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 39 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 307 microseconds 
+Timing - SpMV. 		Elasped 9519 microseconds 
+The relative error of the approximation is 1.134780
+The X dimension of the grid is 128 
+The number of time steps to perform is 1700 
+Timing - Allocating device memory. 		Elasped 84383 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 53 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 286 microseconds 
+Timing - SpMV. 		Elasped 9853 microseconds 
+The relative error of the approximation is 1.088344
+The X dimension of the grid is 128 
+The number of time steps to perform is 1800 
+Timing - Allocating device memory. 		Elasped 84912 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 37 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 310 microseconds 
+Timing - SpMV. 		Elasped 10340 microseconds 
+The relative error of the approximation is 1.044448
+The X dimension of the grid is 128 
+The number of time steps to perform is 1900 
+Timing - Allocating device memory. 		Elasped 85417 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 63 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 219 microseconds 
+Timing - SpMV. 		Elasped 10963 microseconds 
+The relative error of the approximation is 1.002871
+The X dimension of the grid is 128 
+The number of time steps to perform is 2000 
+Timing - Allocating device memory. 		Elasped 81837 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 34 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 291 microseconds 
+Timing - SpMV. 		Elasped 11553 microseconds 
+The relative error of the approximation is 0.963428
+The X dimension of the grid is 128 
+The number of time steps to perform is 2100 
+Timing - Allocating device memory. 		Elasped 84561 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 35 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 315 microseconds 
+Timing - SpMV. 		Elasped 11771 microseconds 
+The relative error of the approximation is 0.925962
+The X dimension of the grid is 128 
+The number of time steps to perform is 2200 
+Timing - Allocating device memory. 		Elasped 82192 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 58 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 300 microseconds 
+Timing - SpMV. 		Elasped 12616 microseconds 
+The relative error of the approximation is 0.890336
+The X dimension of the grid is 128 
+The number of time steps to perform is 2300 
+Timing - Allocating device memory. 		Elasped 83523 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 301 microseconds 
+Timing - SpMV. 		Elasped 13191 microseconds 
+The relative error of the approximation is 0.856431
+The X dimension of the grid is 128 
+The number of time steps to perform is 2400 
+Timing - Allocating device memory. 		Elasped 83591 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 32 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 477 microseconds 
+Timing - SpMV. 		Elasped 14456 microseconds 
+The relative error of the approximation is 0.824139
+The X dimension of the grid is 128 
+The number of time steps to perform is 2500 
+Timing - Allocating device memory. 		Elasped 87594 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 326 microseconds 
+Timing - SpMV. 		Elasped 14883 microseconds 
+The relative error of the approximation is 0.793362
+The X dimension of the grid is 128 
+The number of time steps to perform is 2600 
+Timing - Allocating device memory. 		Elasped 88707 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 40 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 297 microseconds 
+Timing - SpMV. 		Elasped 15391 microseconds 
+The relative error of the approximation is 0.764012
+The X dimension of the grid is 128 
+The number of time steps to perform is 2700 
+Timing - Allocating device memory. 		Elasped 87533 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 48 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 342 microseconds 
+Timing - SpMV. 		Elasped 15706 microseconds 
+The relative error of the approximation is 0.736008
+The X dimension of the grid is 128 
+The number of time steps to perform is 2800 
+Timing - Allocating device memory. 		Elasped 83395 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 64 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 301 microseconds 
+Timing - SpMV. 		Elasped 16296 microseconds 
+The relative error of the approximation is 0.709273
+The X dimension of the grid is 128 
+The number of time steps to perform is 2900 
+Timing - Allocating device memory. 		Elasped 83503 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 308 microseconds 
+Timing - SpMV. 		Elasped 17527 microseconds 
+The relative error of the approximation is 0.683739
+The X dimension of the grid is 128 
+The number of time steps to perform is 3000 
+Timing - Allocating device memory. 		Elasped 83930 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 39 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 199 microseconds 
+Timing - SpMV. 		Elasped 18504 microseconds 
+The relative error of the approximation is 0.659339
+The X dimension of the grid is 128 
+The number of time steps to perform is 3100 
+Timing - Allocating device memory. 		Elasped 86340 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 51 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 315 microseconds 
+Timing - SpMV. 		Elasped 18297 microseconds 
+The relative error of the approximation is 0.636013
+The X dimension of the grid is 128 
+The number of time steps to perform is 3200 
+Timing - Allocating device memory. 		Elasped 89460 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 35 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 201 microseconds 
+Timing - SpMV. 		Elasped 19410 microseconds 
+The relative error of the approximation is 0.613703
+The X dimension of the grid is 128 
+The number of time steps to perform is 3300 
+Timing - Allocating device memory. 		Elasped 87507 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 94 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 290 microseconds 
+Timing - SpMV. 		Elasped 18949 microseconds 
+The relative error of the approximation is 0.592355
+The X dimension of the grid is 128 
+The number of time steps to perform is 3400 
+Timing - Allocating device memory. 		Elasped 95726 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 40 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 306 microseconds 
+Timing - SpMV. 		Elasped 19224 microseconds 
+The relative error of the approximation is 0.571920
+The X dimension of the grid is 128 
+The number of time steps to perform is 3500 
+Timing - Allocating device memory. 		Elasped 100310 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 34 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 270 microseconds 
+Timing - SpMV. 		Elasped 45384 microseconds 
+The relative error of the approximation is 0.552349
+The X dimension of the grid is 128 
+The number of time steps to perform is 3600 
+Timing - Allocating device memory. 		Elasped 87966 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 67 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 305 microseconds 
+Timing - SpMV. 		Elasped 32056 microseconds 
+The relative error of the approximation is 0.533599
+The X dimension of the grid is 128 
+The number of time steps to perform is 3700 
+Timing - Allocating device memory. 		Elasped 83627 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 74 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 319 microseconds 
+Timing - SpMV. 		Elasped 22524 microseconds 
+The relative error of the approximation is 0.515628
+The X dimension of the grid is 128 
+The number of time steps to perform is 3800 
+Timing - Allocating device memory. 		Elasped 82139 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 67 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 288 microseconds 
+Timing - SpMV. 		Elasped 23154 microseconds 
+The relative error of the approximation is 0.498395
+The X dimension of the grid is 128 
+The number of time steps to perform is 3900 
+Timing - Allocating device memory. 		Elasped 82346 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 88 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 279 microseconds 
+Timing - SpMV. 		Elasped 23585 microseconds 
+The relative error of the approximation is 0.481865
+The X dimension of the grid is 128 
+The number of time steps to perform is 4000 
+Timing - Allocating device memory. 		Elasped 93953 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 35 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 291 microseconds 
+Timing - SpMV. 		Elasped 23895 microseconds 
+The relative error of the approximation is 0.466001
+The X dimension of the grid is 128 
+The number of time steps to perform is 4100 
+Timing - Allocating device memory. 		Elasped 120325 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 54 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 315 microseconds 
+Timing - SpMV. 		Elasped 23289 microseconds 
+The relative error of the approximation is 0.450771
+The X dimension of the grid is 128 
+The number of time steps to perform is 4200 
+Timing - Allocating device memory. 		Elasped 89921 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 58 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 309 microseconds 
+Timing - SpMV. 		Elasped 25253 microseconds 
+The relative error of the approximation is 0.436144
+The X dimension of the grid is 128 
+The number of time steps to perform is 4300 
+Timing - Allocating device memory. 		Elasped 84720 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 76 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 338 microseconds 
+Timing - SpMV. 		Elasped 32056 microseconds 
+The relative error of the approximation is 0.422091
+The X dimension of the grid is 128 
+The number of time steps to perform is 4400 
+Timing - Allocating device memory. 		Elasped 90356 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 41 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 16 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 320 microseconds 
+Timing - SpMV. 		Elasped 26395 microseconds 
+The relative error of the approximation is 0.408584
+The X dimension of the grid is 128 
+The number of time steps to perform is 4500 
+Timing - Allocating device memory. 		Elasped 85027 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 41 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 311 microseconds 
+Timing - SpMV. 		Elasped 26161 microseconds 
+The relative error of the approximation is 0.395597
+The X dimension of the grid is 128 
+The number of time steps to perform is 4600 
+Timing - Allocating device memory. 		Elasped 104696 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 33 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 312 microseconds 
+Timing - SpMV. 		Elasped 26431 microseconds 
+The relative error of the approximation is 0.383105
+The X dimension of the grid is 128 
+The number of time steps to perform is 4700 
+Timing - Allocating device memory. 		Elasped 97488 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 74 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 297 microseconds 
+Timing - SpMV. 		Elasped 42696 microseconds 
+The relative error of the approximation is 0.371086
+The X dimension of the grid is 128 
+The number of time steps to perform is 4800 
+Timing - Allocating device memory. 		Elasped 132575 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 47 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 296 microseconds 
+Timing - SpMV. 		Elasped 27856 microseconds 
+The relative error of the approximation is 0.359517
+The X dimension of the grid is 128 
+The number of time steps to perform is 4900 
+Timing - Allocating device memory. 		Elasped 83322 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 298 microseconds 
+Timing - SpMV. 		Elasped 28203 microseconds 
+The relative error of the approximation is 0.348377
+The X dimension of the grid is 128 
+The number of time steps to perform is 5000 
+Timing - Allocating device memory. 		Elasped 83176 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 57 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 298 microseconds 
+Timing - SpMV. 		Elasped 28835 microseconds 
+The relative error of the approximation is 0.337648
+The X dimension of the grid is 128 
+The number of time steps to perform is 5100 
+Timing - Allocating device memory. 		Elasped 82726 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 32 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 214 microseconds 
+Timing - SpMV. 		Elasped 29760 microseconds 
+The relative error of the approximation is 0.327310
+The X dimension of the grid is 128 
+The number of time steps to perform is 5200 
+Timing - Allocating device memory. 		Elasped 83760 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 59 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 321 microseconds 
+Timing - SpMV. 		Elasped 31095 microseconds 
+The relative error of the approximation is 0.317347
+The X dimension of the grid is 128 
+The number of time steps to perform is 5300 
+Timing - Allocating device memory. 		Elasped 81336 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 44 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 285 microseconds 
+Timing - SpMV. 		Elasped 30121 microseconds 
+The relative error of the approximation is 0.307740
+The X dimension of the grid is 128 
+The number of time steps to perform is 5400 
+Timing - Allocating device memory. 		Elasped 92731 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 37 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 323 microseconds 
+Timing - SpMV. 		Elasped 32407 microseconds 
+The relative error of the approximation is 0.298476
+The X dimension of the grid is 128 
+The number of time steps to perform is 5500 
+Timing - Allocating device memory. 		Elasped 85996 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 33 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 248 microseconds 
+Timing - SpMV. 		Elasped 32834 microseconds 
+The relative error of the approximation is 0.289539
+The X dimension of the grid is 128 
+The number of time steps to perform is 5600 
+Timing - Allocating device memory. 		Elasped 87425 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 53 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 332 microseconds 
+Timing - SpMV. 		Elasped 31191 microseconds 
+The relative error of the approximation is 0.280915
+The X dimension of the grid is 128 
+The number of time steps to perform is 5700 
+Timing - Allocating device memory. 		Elasped 86052 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 45 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 290 microseconds 
+Timing - SpMV. 		Elasped 37068 microseconds 
+The relative error of the approximation is 0.272590
+The X dimension of the grid is 128 
+The number of time steps to perform is 5800 
+Timing - Allocating device memory. 		Elasped 85653 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 65 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 314 microseconds 
+Timing - SpMV. 		Elasped 50349 microseconds 
+The relative error of the approximation is 0.264552
+The X dimension of the grid is 128 
+The number of time steps to perform is 5900 
+Timing - Allocating device memory. 		Elasped 128682 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 51 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 324 microseconds 
+Timing - SpMV. 		Elasped 64196 microseconds 
+The relative error of the approximation is 0.256789
+The X dimension of the grid is 128 
+The number of time steps to perform is 6000 
+Timing - Allocating device memory. 		Elasped 81471 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 35 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 278 microseconds 
+Timing - SpMV. 		Elasped 33389 microseconds 
+The relative error of the approximation is 0.249290
+The X dimension of the grid is 128 
+The number of time steps to perform is 6100 
+Timing - Allocating device memory. 		Elasped 89013 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 309 microseconds 
+Timing - SpMV. 		Elasped 36183 microseconds 
+The relative error of the approximation is 0.242044
+The X dimension of the grid is 128 
+The number of time steps to perform is 6200 
+Timing - Allocating device memory. 		Elasped 82345 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 63 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 307 microseconds 
+Timing - SpMV. 		Elasped 35882 microseconds 
+The relative error of the approximation is 0.235040
+The X dimension of the grid is 128 
+The number of time steps to perform is 6300 
+Timing - Allocating device memory. 		Elasped 86207 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 50 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 259 microseconds 
+Timing - SpMV. 		Elasped 35474 microseconds 
+The relative error of the approximation is 0.228269
+The X dimension of the grid is 128 
+The number of time steps to perform is 6400 
+Timing - Allocating device memory. 		Elasped 84355 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 73 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 288 microseconds 
+Timing - SpMV. 		Elasped 36486 microseconds 
+The relative error of the approximation is 0.221721
+The X dimension of the grid is 128 
+The number of time steps to perform is 6500 
+Timing - Allocating device memory. 		Elasped 84138 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 33 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 316 microseconds 
+Timing - SpMV. 		Elasped 37054 microseconds 
+The relative error of the approximation is 0.215387
+The X dimension of the grid is 128 
+The number of time steps to perform is 6600 
+Timing - Allocating device memory. 		Elasped 85573 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 318 microseconds 
+Timing - SpMV. 		Elasped 38063 microseconds 
+The relative error of the approximation is 0.209260
+The X dimension of the grid is 128 
+The number of time steps to perform is 6700 
+Timing - Allocating device memory. 		Elasped 83566 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 37 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 282 microseconds 
+Timing - SpMV. 		Elasped 37082 microseconds 
+The relative error of the approximation is 0.203331
+The X dimension of the grid is 128 
+The number of time steps to perform is 6800 
+Timing - Allocating device memory. 		Elasped 85177 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 67 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 291 microseconds 
+Timing - SpMV. 		Elasped 37974 microseconds 
+The relative error of the approximation is 0.197592
+The X dimension of the grid is 128 
+The number of time steps to perform is 6900 
+Timing - Allocating device memory. 		Elasped 84296 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 61 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 289 microseconds 
+Timing - SpMV. 		Elasped 39113 microseconds 
+The relative error of the approximation is 0.192037
+The X dimension of the grid is 128 
+The number of time steps to perform is 7000 
+Timing - Allocating device memory. 		Elasped 83891 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 33 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 299 microseconds 
+Timing - SpMV. 		Elasped 42108 microseconds 
+The relative error of the approximation is 0.186658
+The X dimension of the grid is 128 
+The number of time steps to perform is 7100 
+Timing - Allocating device memory. 		Elasped 91987 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 44 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 205 microseconds 
+Timing - SpMV. 		Elasped 41518 microseconds 
+The relative error of the approximation is 0.181448
+The X dimension of the grid is 128 
+The number of time steps to perform is 7200 
+Timing - Allocating device memory. 		Elasped 83381 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 41 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 296 microseconds 
+Timing - SpMV. 		Elasped 39268 microseconds 
+The relative error of the approximation is 0.176402
+The X dimension of the grid is 128 
+The number of time steps to perform is 7300 
+Timing - Allocating device memory. 		Elasped 82764 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 81 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 280 microseconds 
+Timing - SpMV. 		Elasped 40271 microseconds 
+The relative error of the approximation is 0.171513
+The X dimension of the grid is 128 
+The number of time steps to perform is 7400 
+Timing - Allocating device memory. 		Elasped 87710 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 60 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 289 microseconds 
+Timing - SpMV. 		Elasped 41939 microseconds 
+The relative error of the approximation is 0.166775
+The X dimension of the grid is 128 
+The number of time steps to perform is 7500 
+Timing - Allocating device memory. 		Elasped 85524 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 61 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 319 microseconds 
+Timing - SpMV. 		Elasped 42256 microseconds 
+The relative error of the approximation is 0.162183
+The X dimension of the grid is 128 
+The number of time steps to perform is 7600 
+Timing - Allocating device memory. 		Elasped 83674 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 35 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 298 microseconds 
+Timing - SpMV. 		Elasped 43262 microseconds 
+The relative error of the approximation is 0.157732
+The X dimension of the grid is 128 
+The number of time steps to perform is 7700 
+Timing - Allocating device memory. 		Elasped 84907 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 36 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 315 microseconds 
+Timing - SpMV. 		Elasped 44753 microseconds 
+The relative error of the approximation is 0.153417
+The X dimension of the grid is 128 
+The number of time steps to perform is 7800 
+Timing - Allocating device memory. 		Elasped 84577 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 319 microseconds 
+Timing - SpMV. 		Elasped 44333 microseconds 
+The relative error of the approximation is 0.149232
+The X dimension of the grid is 128 
+The number of time steps to perform is 7900 
+Timing - Allocating device memory. 		Elasped 84690 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 315 microseconds 
+Timing - SpMV. 		Elasped 45437 microseconds 
+The relative error of the approximation is 0.145174
+The X dimension of the grid is 128 
+The number of time steps to perform is 8000 
+Timing - Allocating device memory. 		Elasped 85428 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 75 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 316 microseconds 
+Timing - SpMV. 		Elasped 44121 microseconds 
+The relative error of the approximation is 0.141237
+The X dimension of the grid is 128 
+The number of time steps to perform is 8100 
+Timing - Allocating device memory. 		Elasped 83369 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 38 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 301 microseconds 
+Timing - SpMV. 		Elasped 46181 microseconds 
+The relative error of the approximation is 0.137418
+The X dimension of the grid is 128 
+The number of time steps to perform is 8200 
+Timing - Allocating device memory. 		Elasped 82876 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 40 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 310 microseconds 
+Timing - SpMV. 		Elasped 47870 microseconds 
+The relative error of the approximation is 0.133713
+The X dimension of the grid is 128 
+The number of time steps to perform is 8300 
+Timing - Allocating device memory. 		Elasped 82173 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 64 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 298 microseconds 
+Timing - SpMV. 		Elasped 49093 microseconds 
+The relative error of the approximation is 0.130117
+The X dimension of the grid is 128 
+The number of time steps to perform is 8400 
+Timing - Allocating device memory. 		Elasped 83408 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 35 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 328 microseconds 
+Timing - SpMV. 		Elasped 51207 microseconds 
+The relative error of the approximation is 0.126627
+The X dimension of the grid is 128 
+The number of time steps to perform is 8500 
+Timing - Allocating device memory. 		Elasped 86366 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 53 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 254 microseconds 
+Timing - SpMV. 		Elasped 47652 microseconds 
+The relative error of the approximation is 0.123239
+The X dimension of the grid is 128 
+The number of time steps to perform is 8600 
+Timing - Allocating device memory. 		Elasped 83068 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 34 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 312 microseconds 
+Timing - SpMV. 		Elasped 48090 microseconds 
+The relative error of the approximation is 0.119950
+The X dimension of the grid is 128 
+The number of time steps to perform is 8700 
+Timing - Allocating device memory. 		Elasped 83704 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 36 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 305 microseconds 
+Timing - SpMV. 		Elasped 49894 microseconds 
+The relative error of the approximation is 0.116756
+The X dimension of the grid is 128 
+The number of time steps to perform is 8800 
+Timing - Allocating device memory. 		Elasped 85345 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 34 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 307 microseconds 
+Timing - SpMV. 		Elasped 52686 microseconds 
+The relative error of the approximation is 0.113655
+The X dimension of the grid is 128 
+The number of time steps to perform is 8900 
+Timing - Allocating device memory. 		Elasped 84440 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 39 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 292 microseconds 
+Timing - SpMV. 		Elasped 48634 microseconds 
+The relative error of the approximation is 0.110643
+The X dimension of the grid is 128 
+The number of time steps to perform is 9000 
+Timing - Allocating device memory. 		Elasped 83443 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 33 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 208 microseconds 
+Timing - SpMV. 		Elasped 51127 microseconds 
+The relative error of the approximation is 0.107718
+The X dimension of the grid is 128 
+The number of time steps to perform is 9100 
+Timing - Allocating device memory. 		Elasped 85827 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 33 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 308 microseconds 
+Timing - SpMV. 		Elasped 50834 microseconds 
+The relative error of the approximation is 0.104876
+The X dimension of the grid is 128 
+The number of time steps to perform is 9200 
+Timing - Allocating device memory. 		Elasped 83083 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 57 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 1 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 303 microseconds 
+Timing - SpMV. 		Elasped 52440 microseconds 
+The relative error of the approximation is 0.102115
+The X dimension of the grid is 128 
+The number of time steps to perform is 9300 
+Timing - Allocating device memory. 		Elasped 84367 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 69 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 205 microseconds 
+Timing - SpMV. 		Elasped 79513 microseconds 
+The relative error of the approximation is 0.099433
+The X dimension of the grid is 128 
+The number of time steps to perform is 9400 
+Timing - Allocating device memory. 		Elasped 105042 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 48 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 386 microseconds 
+Timing - SpMV. 		Elasped 71858 microseconds 
+The relative error of the approximation is 0.096826
+The X dimension of the grid is 128 
+The number of time steps to perform is 9500 
+Timing - Allocating device memory. 		Elasped 84562 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 33 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 305 microseconds 
+Timing - SpMV. 		Elasped 54627 microseconds 
+The relative error of the approximation is 0.094292
+The X dimension of the grid is 128 
+The number of time steps to perform is 9600 
+Timing - Allocating device memory. 		Elasped 85490 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 37 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 233 microseconds 
+Timing - SpMV. 		Elasped 55072 microseconds 
+The relative error of the approximation is 0.091830
+The X dimension of the grid is 128 
+The number of time steps to perform is 9700 
+Timing - Allocating device memory. 		Elasped 87244 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 34 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 317 microseconds 
+Timing - SpMV. 		Elasped 56353 microseconds 
+The relative error of the approximation is 0.089436
+The X dimension of the grid is 128 
+The number of time steps to perform is 9800 
+Timing - Allocating device memory. 		Elasped 85374 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 74 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 3 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 306 microseconds 
+Timing - SpMV. 		Elasped 99388 microseconds 
+The relative error of the approximation is 0.087109
+The X dimension of the grid is 128 
+The number of time steps to perform is 9900 
+Timing - Allocating device memory. 		Elasped 84334 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 36 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 0 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 212 microseconds 
+Timing - SpMV. 		Elasped 57963 microseconds 
+The relative error of the approximation is 0.084847
+The X dimension of the grid is 128 
+The number of time steps to perform is 10000 
+Timing - Allocating device memory. 		Elasped 81938 microseconds 
+Timing - Prefetching GPU memory to the host. 		Elasped 41 microseconds 
+Timing - Initializing the sparse matrix on the host. 		Elasped 2 microseconds 
+Timing - Initializing memory on the host. 		Elasped 1 microseconds 
+Timing - Prefetching GPU memory to the device. 		Elasped 269 microseconds 
+Timing - SpMV. 		Elasped 132233 microseconds 
+The relative error of the approximation is 0.082647
