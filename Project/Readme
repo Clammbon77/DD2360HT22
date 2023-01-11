@@ -1,0 +1,21 @@
+This is the final project on Unified memory optimization of bfs in Rodinia3.1 suite for DD2360HT22 Applied GPU programming.
+=========================
+1. Pakage Structure
+
+/bin		: binary executables
+/common	: common configuration file
+/bfs	: source code for the CUDA implementation of bfs 
+/bfs_um  : source code for the CUDA implementation of bfs with UM optimization
+/bfs_adv  : source code for the CUDA implementation of bfs with advise UM optimization
+/bfs_um_pre  : source code for the CUDA implementation of bfs with prefetch UMoptimization 
+/data	: input files
+/DD2360_project : notebook including history of coding
+
+2. Build bfs
+Using make
+
+3. run bfs 
+Can be run on the graph contained in the data folder graph1MW_6.txt
+For example: ./bfs ../../data/bfs/graph1MW_6.txt
+
+Edited by Yeqi Wang
